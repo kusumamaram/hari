@@ -1,0 +1,9 @@
+html file 
+
+are you a camera ??
+if yes:
+   why ??{
+       print(bczz you are always looking like very cute, gargeous,elegant,wow,good,nice,beautiful etc..in my eyes.
+   else{
+ false question...!!
+}
